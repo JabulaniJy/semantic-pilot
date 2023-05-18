@@ -1,0 +1,5 @@
+npm init -y to add package.json file
+    -add name, discription and author
+npm i -D semsntic-release @semantic-release/git @semantic-release/changelog 
+add workflow (release.yml)
+push to git hub repo

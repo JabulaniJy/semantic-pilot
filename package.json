@@ -1,0 +1,17 @@
+{
+  "name": "semantic-test-project",
+  "version": "1.0.0",
+  "description": "test project for semantic release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jabulani Kubeka",
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^21.0.2"
+  }
+}
